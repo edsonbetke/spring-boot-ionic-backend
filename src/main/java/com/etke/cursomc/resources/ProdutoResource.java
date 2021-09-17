@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.etke.cursomc.domain.Produto;
-import com.etke.cursomc.dto.CategoriaDTO;
 import com.etke.cursomc.dto.ProdutoDTO;
 import com.etke.cursomc.resources.utils.URL;
 import com.etke.cursomc.services.ProdutoService;
